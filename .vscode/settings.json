@@ -13,6 +13,7 @@
     "node:console"
   ],
   "workbench.editorAssociations": {
-    "*.db": "sqlite-viewer.view"
+    "*.db": "sqlite-viewer.view",
+    "*.html": "default"
   }
 }
